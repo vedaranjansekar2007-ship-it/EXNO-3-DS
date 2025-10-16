@@ -102,6 +102,6 @@ print(df_transformed.head())
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
-
+       
+ we perform Feature Encoding and Transformation process
        
